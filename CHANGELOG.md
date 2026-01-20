@@ -1,3 +1,8 @@
+## v1.1.1
+- Song display tweaks
+- Disabled some debug keybinds
+- Replaced the link to MFCE on the title screen with a link to this mod's GitHub repo (since the former felt a bit advertise-y)
+
 ## v1.1
 - Now uses the unofficial [GameMaker 8.2](https://gm82.cherry-treehouse.com) (mainly for the newer OS fixes, like the massive lag when a joystick is unplugged).
 - Added song display option (F7)
